@@ -1,0 +1,11 @@
+new font family 
+gilroy 
+gilroy light 
+gilroy ExtraBold
+
+
+centering the elements of div with new method by adding all
+ the elemnts which we want in center adding then all in one div 
+ and inside the div use property   text align center 
+
+ and the div in which we wanted to make center make in position relative
